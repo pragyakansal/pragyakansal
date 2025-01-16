@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Pragya Kansal 👋
 
-<!--
-**pragyakansal/pragyakansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software engineer passionate about full-stack web and mobile development, with a focus on front-end. 
 
-Here are some ideas to get you started:
+# Interests/Skills
+- I have expertise in React, React Native, TypeScript and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I'm working on
+- I am currently working on a full-stack E-commerce beauty website where customers can purchase cosmetic products. I have also worked on a full-stack travel itinerary mobile application in the past.
+
+# Hobbies
+- I love painting, drawing, crocheting, cooking, baking, and dancing.
+
+# What I want to learn
+- I want to learn more about back-end development, specifically with Node.js.
+- I also want to become more proficient in Java and Python.
